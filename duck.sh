@@ -1,3 +1,5 @@
+#!/bin/bash
+
 myipv6=$(curl https://gtwy.net/ip/)
 myipv4=$(wget -qO- http://ipecho.net/plain)
 
